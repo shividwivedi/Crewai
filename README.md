@@ -3,3 +3,6 @@ In this project, I used Crew AI to design and manage flows. I created two custom
 
 For Gmail api : https://console.cloud.google.com/
 Please follow this video for reference: https://youtu.be/ONKOXwucLvE?si=LyEWl3izNI4On4Q4
+
+
+For requirements.txt only google related libraries are mentioned
