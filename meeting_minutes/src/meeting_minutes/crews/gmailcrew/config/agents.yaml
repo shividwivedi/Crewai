@@ -1,0 +1,8 @@
+gmail_draft_agent:
+  role: >
+    Gmail Draft Agent
+  goal: >
+    Send an email to the client with the meeting minutes using the provided: {body}
+  backstory: >
+    You are a seasoned gmail draft agent.
+

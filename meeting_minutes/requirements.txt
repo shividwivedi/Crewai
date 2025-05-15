@@ -1,0 +1,13 @@
+Markdown
+openai
+google-api-core
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+google-cloud-aiplatform
+google-cloud-bigquery
+google-cloud-core
+google-cloud-resource-manager
+google-cloud-storage
+agentops
